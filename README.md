@@ -9,7 +9,7 @@ Is a Free Music bot with High Quality Music that has lots of features including 
 [![Discord](https://discordapp.com/api/guilds/465236219463204874/widget.png)](https://discord.gg/invite/wvvQrGV)
 
 <a href="https://dsc.gg/nocturnalbot">
-  <img src="https://cdn.discordapp.com/attachments/973183376926314556/974422463423316028/invite-nocturnal-badge.png" style="width: 550px; heigh: 100px"></img> 
+  <img src="https://cdn.discordapp.com/attachments/973183376926314556/974427336692883486/invite-nocturnal-badge.png" style="width: 550px; heigh: 100px"></img> 
 </a> 
 
 ## Features
