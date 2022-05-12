@@ -1,22 +1,30 @@
-<div>
+<img align="right" src="https://cdn.discordapp.com/attachments/973183376926314556/973381647410008144/Nocturnal_Avatar.png" height="200" width="200">
 
-<h1>Nocturnal</h1>
 
-<p>
+# Nocturnal
 
-Is a Free Music bot with High Quality Music that has lots of features including custom playlists, filters and autoplay. Nocturnal also has a slash command.<br>
-Join <a href="https://discord.gg/invite/wvvQrGV">Discord</a> for Support
-</p><a href="https://discord.gg/invite/wvvQrGV"><img src="https://img.shields.io/discord/465236219463204874.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://dsc.gg/nocturnalbot"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Invite%20Me&logo=discord&message=Nocturnal%232782&plastic&color=7289DA"></a>
-</div>
+
+Is a Free Music bot with High Quality Music that has lots of features including custom playlists, filters and autoplay.<br>
+
+[![Discord](https://discordapp.com/api/guilds/465236219463204874/widget.png)](https://discord.gg/invite/wvvQrGV)
+
+<a href="https://dsc.gg/nocturnalbot">
+  <img src="https://cdn.discordapp.com/attachments/973183376926314556/974422463423316028/invite-nocturnal-badge.png" style="width: 550px; heigh: 100px"></img> 
+</a> 
 
 ## Features
-- High Quality & Fast
-- Customizable Prefix
-- Easy to use Playlist
+- Easy to use
+- Smooth playback
+- Free Audio filters (bassboost)
+- Fast loading of songs
+- Custom Prefixes
+- Custom Playlist
 - Liked tracks
-- Slash Commands , Buttons & Context Menu Based
-- AutoPlay, Lyrics, Filters are free to use
+- Playlist selector
+- Free AutoPlay & Lyrics Command
+- Supports many sites, Spotify, Soundcloud, and more
+- Supports many online radio/streams
+- Slash Commands, Buttons & Context Menu Based
 - And more!
 
 <h2>SUPPORT US</h2>
