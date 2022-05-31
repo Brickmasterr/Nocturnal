@@ -27,6 +27,11 @@ Is a Free Music bot with High Quality Music that has lots of features including 
 - Slash Commands, Buttons & Context Menu Based
 - And more!
 
+## Vote on TOP.GG
+<a href="https://top.gg/bot/531091404584124416">
+  <img src="https://top.gg/api/widget/531091404584124416.svg">
+</a>
+
 <h2>SUPPORT US</h2>
 <p>
 <a href="https://www.buymeacoffee.com/isdwk" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
