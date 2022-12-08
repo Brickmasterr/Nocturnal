@@ -7,6 +7,7 @@
 Is a Free Music bot with High Quality Music that has lots of features including custom playlists, filters and autoplay.<br>
 
 [![Discord](https://discordapp.com/api/guilds/465236219463204874/widget.png)](https://discord.gg/invite/wvvQrGV)
+[![wakatime](https://wakatime.com/badge/user/b7cc8d01-ea35-4a71-ad7c-4c272a5241e1/project/2495c4e8-fcc8-40d4-8fee-d1c78aca5182.svg)](https://wakatime.com/badge/user/b7cc8d01-ea35-4a71-ad7c-4c272a5241e1/project/2495c4e8-fcc8-40d4-8fee-d1c78aca5182)
 
 <a href="https://dsc.gg/nocturnalbot">
   <img src="https://cdn.discordapp.com/attachments/973183376926314556/974427336692883486/invite-nocturnal-badge.png" style="width: 550px; heigh: 100px"></img> 
